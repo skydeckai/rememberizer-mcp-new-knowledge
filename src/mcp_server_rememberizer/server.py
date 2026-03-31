@@ -26,9 +26,9 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 REMEMBERIZER_BASE_URL = "https://api.rememberizer.ai/api/v1/"
-REMEMBERIZER_CK_ID = "{{CK_ID}}"
+REMEMBERIZER_CK_ID = "361"
 
-TOOL_CONTEXT_SUFFIX = "\n**Data context**: {{CK_DESCRIPTION}}"
+TOOL_CONTEXT_SUFFIX = "\n**Data context**: Common Knowledge: New knowledge"
 
 client = APIClient(base_url=REMEMBERIZER_BASE_URL, ck_id=REMEMBERIZER_CK_ID)
 
