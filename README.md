@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/skydeckai-rememberizer-mcp-new-knowledge-badge.png)](https://mseep.ai/app/skydeckai-rememberizer-mcp-new-knowledge)
+
 # Rememberizer MCP Server for Common Knowledge
 <!-- CK_DESCRIPTION_START -->
 Common Knowledge: New knowledge
